@@ -1,0 +1,7 @@
+#Tue Jun 05 10:46:29 EDT 2018
+base.0=/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10000/instant-run-bootstrap_86c76bda53f787c68462788dd67c7ffbbe907c73
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10000/instant-run_76f238a1a4136af7360fe66aa55091a00cd1087b/classes.dex
+base.1=/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10000/instant-run_76f238a1a4136af7360fe66aa55091a00cd1087b
+file.0=/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10000/instant-run-bootstrap_86c76bda53f787c68462788dd67c7ffbbe907c73/classes.dex

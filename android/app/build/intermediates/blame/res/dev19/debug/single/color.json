@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/com_facebook_send_button_text_color.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/918f4b8e243452c9fd503eb27374aebde85e68bc/output/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/8e4f370bc831c693da503358d1c34ef5f4f41488/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_search_url_text.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/01ee66b5c642335790c57500bc7a8703bd411727/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/01ee66b5c642335790c57500bc7a8703bd411727/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/5e7d3b2b053888bee8ae0ca00a06ea24fd0a2498/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/com_facebook_button_text_color.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/08ab51ed274b31d7cbac69c42683cc3864446e77/output/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/5e7d3b2b053888bee8ae0ca00a06ea24fd0a2498/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/design_error.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/8e4f370bc831c693da503358d1c34ef5f4f41488/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_default.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/color/abc_tint_edittext.xml"
+    }
+]

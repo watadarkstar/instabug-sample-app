@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/8e4f370bc831c693da503358d1c34ef5f4f41488/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/8e4f370bc831c693da503358d1c34ef5f4f41488/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

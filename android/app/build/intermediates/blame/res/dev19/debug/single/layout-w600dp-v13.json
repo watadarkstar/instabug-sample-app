@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/layout-w600dp-v13/ib_core_lyt_dialog_fragment.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/3d8f77010ede42178237100bb8e862c0f48e7805/output/res/layout-w600dp-v13/ib_core_lyt_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/layout-w600dp-v13/instabug_lyt_pbi.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/3d8f77010ede42178237100bb8e862c0f48e7805/output/res/layout-w600dp-v13/instabug_lyt_pbi.xml"
+    }
+]

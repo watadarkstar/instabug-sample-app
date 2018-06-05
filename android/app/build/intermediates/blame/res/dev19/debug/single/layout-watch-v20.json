@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

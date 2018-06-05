@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-clearcut-9.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/d6180c24c47a1fb944a43b63340b0a7e4e3797a1/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/d6180c24c47a1fb944a43b63340b0a7e4e3797a1/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

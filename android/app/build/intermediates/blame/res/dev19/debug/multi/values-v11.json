@@ -1,0 +1,70 @@
+[
+    {
+        "outputFile": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/incremental/mergeDev19DebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/Users/adriancaroll/.android/build-cache/c2d9a9c127322212de743ff66f8a1d8091469de8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 454
+                },
+                "from": {
+                    "file": "/Users/adriancaroll/.android/build-cache/19876fb380043cf6ca8fc91ab19bcd17e819d890/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 459,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "/Users/adriancaroll/.android/build-cache/19876fb380043cf6ca8fc91ab19bcd17e819d890/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 597
+                    }
+                }
+            }
+        ]
+    }
+]

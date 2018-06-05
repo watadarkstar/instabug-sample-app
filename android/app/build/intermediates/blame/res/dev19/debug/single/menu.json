@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/menu/instabug_bug_annoataion.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/19876fb380043cf6ca8fc91ab19bcd17e819d890/output/res/menu/instabug_bug_annoataion.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/menu/ib_fr_sorting_actions_pop_up.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/03dba854b66edae554ab448ce95d829b6459766b/output/res/menu/ib_fr_sorting_actions_pop_up.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/menu/crop_image_menu.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/7cfd710d4b77722bf647d91e3b615551c065284b/output/res/menu/crop_image_menu.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/menu/instabug_bug_reporting.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/19876fb380043cf6ca8fc91ab19bcd17e819d890/output/res/menu/instabug_bug_reporting.xml"
+    }
+]

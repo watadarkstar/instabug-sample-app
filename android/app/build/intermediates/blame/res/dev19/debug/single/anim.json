@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_tooltip_enter.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_fade_out.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_fade_in.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/ib_fr_top_in.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/03dba854b66edae554ab448ce95d829b6459766b/output/res/anim/ib_fr_top_in.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/instabug_anim_pop_in.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/fa9b4e84b0dd017c827c7f3652f3f8fb2e163f55/output/res/anim/instabug_anim_pop_in.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/f3a9ba84c53eeffbae323cffd97962edaf204276/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/slide_up.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/820d96c1000c1ffd7cd0da8cdada24595cde6b28/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/anim_invocation_dialog_enter.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/3d8f77010ede42178237100bb8e862c0f48e7805/output/res/anim/anim_invocation_dialog_enter.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/ib_bug_slide_out_left.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/19876fb380043cf6ca8fc91ab19bcd17e819d890/output/res/anim/ib_bug_slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/f3a9ba84c53eeffbae323cffd97962edaf204276/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/anim_flyin.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/fa9b4e84b0dd017c827c7f3652f3f8fb2e163f55/output/res/anim/anim_flyin.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/anim_recording_audio_dialog_exit.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/3d8f77010ede42178237100bb8e862c0f48e7805/output/res/anim/anim_recording_audio_dialog_exit.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/f3a9ba84c53eeffbae323cffd97962edaf204276/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/slide_down.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/820d96c1000c1ffd7cd0da8cdada24595cde6b28/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/ib_bug_slide_from_right.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/19876fb380043cf6ca8fc91ab19bcd17e819d890/output/res/anim/ib_bug_slide_from_right.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/anim_fadein.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/fa9b4e84b0dd017c827c7f3652f3f8fb2e163f55/output/res/anim/anim_fadein.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/8e4f370bc831c693da503358d1c34ef5f4f41488/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/8e4f370bc831c693da503358d1c34ef5f4f41488/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/f3a9ba84c53eeffbae323cffd97962edaf204276/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/instabug_fadeout.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/19876fb380043cf6ca8fc91ab19bcd17e819d890/output/res/anim/instabug_fadeout.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/ib_fr_top_out.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/03dba854b66edae554ab448ce95d829b6459766b/output/res/anim/ib_fr_top_out.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/8e4f370bc831c693da503358d1c34ef5f4f41488/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/fade_in.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/3d8f77010ede42178237100bb8e862c0f48e7805/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/instabug_anim_flyin_from_bottom.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/fa9b4e84b0dd017c827c7f3652f3f8fb2e163f55/output/res/anim/instabug_anim_flyin_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/f3a9ba84c53eeffbae323cffd97962edaf204276/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/instabug_anim_pop_out.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/fa9b4e84b0dd017c827c7f3652f3f8fb2e163f55/output/res/anim/instabug_anim_pop_out.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/f3a9ba84c53eeffbae323cffd97962edaf204276/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/anim_invocation_dialog_exit.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/3d8f77010ede42178237100bb8e862c0f48e7805/output/res/anim/anim_invocation_dialog_exit.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/instabug_fadein.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/19876fb380043cf6ca8fc91ab19bcd17e819d890/output/res/anim/instabug_fadein.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/cycle.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/c2d9a9c127322212de743ff66f8a1d8091469de8/output/res/anim/cycle.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/anim_recording_audio_dialog_enter.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/3d8f77010ede42178237100bb8e862c0f48e7805/output/res/anim/anim_recording_audio_dialog_enter.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_tooltip_exit.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/shake.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/c2d9a9c127322212de743ff66f8a1d8091469de8/output/res/anim/shake.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/instabug_anim_flyout_to_bottom.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/fa9b4e84b0dd017c827c7f3652f3f8fb2e163f55/output/res/anim/instabug_anim_flyout_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/fade_out.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/3d8f77010ede42178237100bb8e862c0f48e7805/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/instabug_anim_slide_from_right.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/fa9b4e84b0dd017c827c7f3652f3f8fb2e163f55/output/res/anim/instabug_anim_slide_from_right.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/instabug_anim_slide_out_to_right.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/fa9b4e84b0dd017c827c7f3652f3f8fb2e163f55/output/res/anim/instabug_anim_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/8e4f370bc831c693da503358d1c34ef5f4f41488/output/res/anim/design_bottom_sheet_slide_in.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/animator/card_flip_right_in.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/95eda3bb942cefe24628677c4367fa8441cca303/output/res/animator/card_flip_right_in.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/animator/card_flip_left_out.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/95eda3bb942cefe24628677c4367fa8441cca303/output/res/animator/card_flip_left_out.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/animator/card_flip_left_in.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/95eda3bb942cefe24628677c4367fa8441cca303/output/res/animator/card_flip_left_in.xml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/animator/card_flip_right_out.xml",
+        "source": "/Users/adriancaroll/.android/build-cache/95eda3bb942cefe24628677c4367fa8441cca303/output/res/animator/card_flip_right_out.xml"
+    }
+]

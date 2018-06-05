@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/mipmap-xxhdpi/dev_icon.png",
+        "source": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/src/main/res/mipmap-xxhdpi/dev_icon.png"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

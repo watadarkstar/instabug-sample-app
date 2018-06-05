@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_document_nest.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_document_nest.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/new_message.mp3",
+        "source": "/Users/adriancaroll/.android/build-cache/3d8f77010ede42178237100bb8e862c0f48e7805/output/res/raw/new_message.mp3"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_poly_style_boolean_alpha.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_default_balloon.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_default_balloon.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_nested_folders.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_nested_folders.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_draw_order_ground_overlay.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_ground_overlay_color.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_ground_overlay_color.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/gtm_analytics",
+        "source": "/Users/adriancaroll/.android/build-cache/f6d0e8c1ef0269055aa99ac7603531cbc7a75118/output/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_visibility_ground_overlay.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_multiple_placemarks.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_multiple_placemarks.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_basic_folder.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_basic_folder.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_multigeometry_placemarks.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_unknwown_folder.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_unknwown_folder.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_extended_data.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_extended_data.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_nested_multigeometry.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_nested_multigeometry.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_inline_style.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_inline_style.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_ground_overlay.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_ground_overlay.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_cdata.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_cdata.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_poly_style_boolean_numeric.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_basic_placemark.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_basic_placemark.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_unsupported.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_unsupported.kml"
+    },
+    {
+        "merged": "/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/res/merged/dev19/debug/raw/amu_ballon_gx_prefix.kml",
+        "source": "/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/res/raw/amu_ballon_gx_prefix.kml"
+    }
+]

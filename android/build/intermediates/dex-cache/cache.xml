@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/dade74393cd1db740242d2954eff718dfde78b63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_ee76a7bc82b0c8ed4031f373abd1885fd774ba0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/47c8e1741ed2d5c0130c57acabdec9036f02e72c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c0cdbf04d52868f418ee56c88ccd44f4824674dd">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_dec0deee759b033f05b83ca7429887fb509c269b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/886ae5829e4abe21521afd97dcf904500b04ee8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae2154348a4c38a18e8d1042cf445faea4647d0">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_47c06ccf218e92b12f68af147d4f58515cbb0f32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/2ae6f9ebe58b9e2b904af0b05ea92bfa093488f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ab6e491b5d7bda2f47991a30f6bfe9a8b134ff8b">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_e5552697905bf395b9907df2476db1814189482d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/95007aef34159e53be2e8258515f78e3230f4826/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_e4ec5935b35a1ac36ab7127048dae02eb100ba9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/116c03b1b1b0eff6b03ad101ce292cbaa2080ccb/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea01f90e60978bc6871543cd76136a97a19450b5">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_2510647d73e60a6577e6b3398d1423e6a24cccf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/d900bcfc67f77fdab80ec1c978ed6a392c5b0b07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_c03981cfaba441d07382da33c0d60ffddf7e1a6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/0ced88c98bda9f5c820fd6b5e03052c25504aec4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="68d8ffe33fc5c2feb623b2e216dfc180e7540cd5">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_ff940a2917ce490df415fe999ec2e682d27e3434/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/6c86d66ebdaad36a18323a4f734590f70b1ebb15/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="79b01f1eace6ce22c6ffd67000bd6b5c5d2477a9">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_c3e301f26f3f83314004cbe32f1738845bdca39b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/afe472fc6a42b82adf8312635e6260f11fa99091/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_d886a4b2655ad1dfc2401f8ca42924791975dc68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/okio-1.9.0_9022f9821fe2b31e4031aafc5dc66874156282d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/maven/expolib_v1/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="89890cffce351fec7caf3fdfd4351c7f4b4769b4">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/okio-1.13.0_4ecf965a202728ca49240e4ec2e4f77580528611/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/6e54dc96558a378ed5e060a28d7e75803299815f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa112f9589a72edd6c8458764cd65e80a39e6d8c">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_400ae43662670c9498ac69601b82d179b3453ee5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/02c323dd03db14620a0a7a9e06e391b63b8e54a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6172a6e0872c156ae82fe8b51d82b2daed424aa">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_166e997a00218ebd07cc0978fa1039856a1d77f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/3ce89be92dca634567047d169d6840aec8c53f2e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_8c900ecc2880a58b20c0cf3c33f75c827f0e3d4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/f3a9ba84c53eeffbae323cffd97962edaf204276/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_bce0b7f50a943781034d5a637f0e29dee995c680/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/8b58524bd178a622f913a6b3fe0d5ca07d7cef48/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="906fdd57c143ec9adc27a76a697fed1c0cfd6348">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_086b7f9a622ac1d19064035e10efe3cbb7668204/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/2cfe3c404f87b5135f40a00da1b4c94ab5cf0c15/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_217e13929e26b7a358ab6fdf48fdc2a2ded5c6c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/9efc89e34a1bb8180f97e3e83a7af09d17f4227a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7bf36963372211d8b9e000939020b1c3242234e">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_c137975b5c4108bfa943b117f20dd2e404d21227/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/0502dbc2243978b186035b33bda064b3399d3f98/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_272cc56de8c1f2439c27bf758cba64b949189e1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/7adc796aefea8e0c8fd67924443fb18d05f60057/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_b45f3235db2b73e26651ec8489e2809a319d5d60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/087c8bd6933edb9a35ca920becfd7edddb5c403f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="705378853cb9f264315d7a0a8edb6743d72efe9b">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_56352cf139228fe2df6dbc7701a1b1b5b944846c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/4c0ab7f926acebf9c2274af3ae9d0910c4de73d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_35ddc3cd64bc2319c8a8718aeee0d74da66c1000/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/5ad00d4272aeb1662beef0a32757e829e89d83c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42a37372fca7123a593202ba76a7f98fbd691f05">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_94fe25ca5c628cae2ccfe1bb7106b0520e00df2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/683e3a71039c60708917958fe450e81a7d63b6d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53dc9d74b0ac22d201549cd806780597d9679e9a">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_66fb2a848b56dc03e69eed369bee51f8111d767c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/e20470924975e27b131ac066fa82d9cb883b2613/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9af3b9b8114e685291aa00e6572b0a9131244956">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_a00e229c7f9cb8f849c6ce62ee67c427aa99c926/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/28665d38bdbdafa1e15e8eb8b4ab15ea0dd5d751/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffde64dbb0fc07c8b9735c6c42a06a36be15ed13">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_3bc78be18999bfcc2193d91269e57d889c331f98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/156c20101cc376a87ffd40763b127371586a9744/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_4c62431c4c41461605d5515e2077f2d17cdcd13c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/ed5d10d9966e72dec9201aec0513761506d26627/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_69ce32b9c60265d2503fb8f0d8d309f9290c7fae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/incremental-runtime-classes/dev19/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10000/instant-run_76f238a1a4136af7360fe66aa55091a00cd1087b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/3edef51db80533cd3aa3350655becb620f993c69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="54e2d399389658f8ddec6624c0fec9e8035876d9">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_46bcc52bcd1bbcbba1196d24573853388a796d21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/8b5ce2a31a26239a1de05e2c23b3b924d7283744/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_b1e8a9fad75d584662756b6748ca6ce810e09847/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/e990fd40779bc9f9304f184632de1bc9107c4e94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="10c32fcf3d0acc4b208fc39f8d2e16b69ef8bd3b">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_011e9617dc51923076b3512322246463ba9228c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/820d96c1000c1ffd7cd0da8cdada24595cde6b28/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6eb79bde4cf6bbb7573bcf7dfbaf8a313f57612e">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_3fac17cee39e0b12075ffa43ce4c882a2589c2f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/8e4f370bc831c693da503358d1c34ef5f4f41488/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f7e3ff2cb093a99c8dc1ff3d50c176019fa5d7c1">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_f9975e85ce83823b3d66970a95efaa6b9d0d69be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/03dba854b66edae554ab448ce95d829b6459766b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c40ce00a8dff5a65820e56039321d81539cae426">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_50083b33a3a283043a151b26aafc2c92c2b1a8f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/maven/expolib_v1/com/squareup/okhttp3/okhttp/3.6.0/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="565de69ddf97fffe074cba6cb0512520cdce4394">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/okhttp-3.6.0_da096467a72c14a5ff9f5d6c0519a10d585c593b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/0d5c110dfb6c0956a2da7b5db50e5aa1e5da810d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_4b858e4c9904b1c945883820e1e0b36bbda1cd05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/209623289396b502af5577c9c47203d1ebcd87cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="418dca1ee8bac0cc2f78f8f34b594c4d89eec057">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_6806ade45f632d07f0ceee2cff6ecbf42a0b0459/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/19876fb380043cf6ca8fc91ab19bcd17e819d890/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cde50798be73857d64295decadc83d91fcd98f34">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_ee1ade9cc8acd9c9bc3c542c77d18a3885b6a9da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/209623289396b502af5577c9c47203d1ebcd87cc/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82231c00c16c59ee23a508bec9fc6bc3e60c96b2">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_6a740aff7dc4405411dc773c1b6859285bb5dabe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/0ced88c98bda9f5c820fd6b5e03052c25504aec4/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9558f8bf566536221101e576b5c398787cfcbc3">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_0467991c3ab38776eb44a21e301b143963800754/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/3c1b66284ef9c1ce481f78f36a163b213cfd526b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_e63a4c6c2618753c5c082ac39663dc3426450475/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/fff1e0b797523fdb20940116208749d9950d2a02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a34a28ae586a32e1a33eeb63378732b473cad2be">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_aea82378c951cc7449e3feed51528b91678fcbfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/c2d9a9c127322212de743ff66f8a1d8091469de8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9111e38999fee0b16a1ccd057b779f5b08f330e2">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_d529d89d8111281bef1ca9a3a6beafcd40b0a357/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/5db5d727cf7fbfb9d1b9f457b393fa595dea6717/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_59057fe645bf37d76cfc350ed09cb5ed69c77705/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/maven/expolib_v1/com/squareup/okhttp3/okhttp-urlconnection/3.6.0/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae77d4921dcf287b3776baabfbca09b55616ab13">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/okhttp-urlconnection-3.6.0_70733c66e5fbfd9148ffe5ded845141225b92785/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/ca903dec1bf314ea3a30b8acf02cfe39a52304a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae335c9696bc1513f7e3bb96a731b722712d7a63">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_b2f98e0a2d305d7821105d68d5ebcb9337a1cb36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/88f5294320dad83f5e6df12612c0dd9fd2fcd0e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="131115ec18ae3951c1584c543de8baa9ac20012a">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_79bc72fc3070223e775b53bddffc9e44687a267f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/532c42b2ba2c3ed11a8ee0922f76e9962a611321/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43579bbbc605c8815aa55ad85d856fb5588250d2">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_5298fea834daa1fe6fc576de845df6fcf8dbf512/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/78b74b3e10804b3dc3ac4b0b2d626f060f2619bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b346a5d3fc5d6d1d36c6262c8cc865b76df9f40c">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_d80acda1cf8758cb9b910189542fa021fc5c89b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/6327c8c6b87032a73f1fa3fcb8776c9e872b039b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_45fb1adf79678cdde5547cb8d72fa454a7cc6010/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/41ad1607be91c9770a8b8b751368a4992a126d4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_9a6a8a9e69f853647ec5673c8afd289744b2c941/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/30a68d181ae54a24439cac75a969269cd21798e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="858c1e21a2570a2416153aecab70d27a11965e79">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_bc7900166f8edb17b3235853b16dcde9a8604dd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/116c03b1b1b0eff6b03ad101ce292cbaa2080ccb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f1cc63c85dfeb86263311713a0810d23112495e">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_71cc1f965f6b750dec94f2a317b470ce7830b201/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/f3a9ba84c53eeffbae323cffd97962edaf204276/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="00bffcece869fcc14f8c3fe523a11c6c53356b44">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_8270b012e10c99c04d1f9e35e52399f502fbd3e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/08ab51ed274b31d7cbac69c42683cc3864446e77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="287f4dec8dc2d40a238b12562b437438499cd2fb">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_3522d2d2b5f7c2f9ca553960bbe6f3c2e4932015/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/764bfa9984779a7389b77b60c7792fe1c6803174/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c83a644dfc8545d77ed076721762fc4eb4092d81">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_7a3cea867ced6512a131a3e294aba235a337c118/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/20fcca331382edbb5855aa3746a596315ee62c19/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c9ef45dcbd082cd63aac09a5e2cd443adb5df837">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_66ddad80bf857abad2f387fe8825dd80b349e9ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/820d96c1000c1ffd7cd0da8cdada24595cde6b28/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cac4539de2fbfcb1c4c44c55166f0332b92d34b7">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_2b8422942536cc4347aa80f3cb63a760c8f3bd85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/6d8af2e317090e69ce5410b8d497c0ff2de51edd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_732547844e9d16f6dc99f2c67b2f339207e5e217/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/265a4c17f063c4ac9bc30c037105f361df2f418f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67b6fa134bb2e2163e293f7ae9b898b985979515">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_8db79090cb3f7c547a8d7e9e9cb6f5cbc565816b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/6e4e62d409dcd612cae9a32235429cc543b6d6cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5c66801c7ac6def4ffef7859925b12ce7940438e">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_afe9324962512aec14d22f748cb3c298098766f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/66d05132900945b219fb83a447a1e64034aa59b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_070fa2b72221e749e24c6e62cf5b5e7b97a044b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/200822f14ecb31b4948b544e2e22d5a2204a71b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="611605b6b640c1558f9bdea41de8ff837ab68ca8">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_e7d26fc42f0fd9b0a1a066516ab0728d146bd032/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/67a77a47d7d5b1cbb3d35e0e36a1c88874a63cfa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_ff6e6a3a73e8a91919d1c000d9ef10647c6dfbf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/82775dd0537e59fb49fad758d66f1ef97a5abab3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="adfb92acadeeff1086115fff6b318e95df8b2b29">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_8da8c2551de0fe0a9bf7b6b42b48b35869ebb820/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/82902fb77b9e7c7d432a87f172f054775f4c8014/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af69623378285932372eb7b3b8ff0ef66fa42b93">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_dfefae352e5f74879fd4008eb099581c0a539f2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/e3fdcb55003c6784fe624311faf0301423b2dd9c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a2f9209ff0d33539df6866d019181ecd1ecd047">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_16054f290e217448443e01e4e85fd365ef11e81f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/15e86667826a7058b1c9b49211e856b2130d3611/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_29e31da504a914c8b496cefdfecb9b40346b957e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/39b7a154073f6cfda01ece912612b80f5c7903dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="13469de5eef4b3c0488c0e4963fef197fc745f8a">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_f1240ca5f8ffdef17b13622704cdcdb7cc21963c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/02c323dd03db14620a0a7a9e06e391b63b8e54a2/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="83d6e98f2b48f3cf1ec0e7c2b3bf2b3d4618f680">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_91bf89f65768e128f97fd8d4a11ed3ced6216ce4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/3d8f77010ede42178237100bb8e862c0f48e7805/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ba5ad767f9acbe545e6a600258b9bb2d505f65c">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_4aa5fe6a5c543444bd654e4991eaa801766fd2f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/0be9195a60e9e7221ff40d3a58cede615f826f82/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4f81a342ac6bace97ad1420eb47fc11ab749a03">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_d7263ef06041ce8ef456c2b24d0c655ec5c7b805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/2d5607e688c01138b39a749b7b26a5da8c6ff37f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="03530f261b6f66dbcae414f12c732bd943f5ba53">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_b434ba48ef07c8f512c37a58dfa2d847ca257c73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/incremental-classes/dev19/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70af5ad663494b67970c323c7d8df3fa63c9eecd">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10000/instant-run-bootstrap_86c76bda53f787c68462788dd67c7ffbbe907c73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/06fa6cb886b782f9dfb238b5626729430e2b3e9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_cbefe067271881bb363ee7ea43fd5a423ac1a22c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/7cfd710d4b77722bf647d91e3b615551c065284b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a88eaa7f9a31907def9a7968367475bdf5170be">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_3c87915d951220b27eae1238fc6048453581db3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/f2bb2faad84693d77050616bdbd71b9605bc94dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_cb5613a79baab910a90675f1aa8a505da30a8594/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/a62edefde76d2b0361bcd3dc26cec963380d22f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_5ed650677677cc2481eedc71011abdcb14d52e14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/5b3e31ac2810ebbae3c8c051a82404d351fe5d95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ad5bb101ced4d3939225c9b57e5a3d81547c1fbb">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_a658daa890de71bd0dc063e867ff615aad3ebf3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/532c42b2ba2c3ed11a8ee0922f76e9962a611321/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a315c4dce1b163f2ddf71bab62f3b56eb05c6a15">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_6e6a128b4beeb2ffc823ab716f6c2900ab25a936/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/daa0230d39726d1829d4910da030f03feddbdf1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec224ad624f39212bacaf5903d989fe066166e7a">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_bce57e2247fe0aed606db4bb5da748ec94beac06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/918f4b8e243452c9fd503eb27374aebde85e68bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dc83ab7a5ce1e0296cf18a52a6edbcfef815e6cf">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_8e592611b3edb28ddb0b79e3f6643cdca74dd962/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/9f6182666c2d88463592a17511dcb4a3619898f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_bd96f2616827487c9b3a7437e0fc6382074de25c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/okhttp-3.4.1_ebd412e55b850e9937129e0e5a7d614dc829d90e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/95eda3bb942cefe24628677c4367fa8441cca303/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="64cd9f68288a814c311fe2723b68bd91aa241c7b">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_8339f3e40260229bf3c34c0e9cd0a413d69b89a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/okhttp-ws-3.4.1_8ab83d746540953a2553528c6f53cf179dc6f59f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/107015676c2fb7e1b3d3dffeee8760106962e4df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_941865477a15766c107983b36917cafc598eaa60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/1ffc3d7a627727757a330605df6cd378e7bfcc5d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="668473027f40fa0cdd5b2db78ba02d676ffd3a2b">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_21fff544faeaecf39c69f2cabb8d30c76e1c4809/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/e53f32926fe5a5223b048d9d5169305212599775/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="755c70a5a4e439030f67311dbafaa67b111377a6">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_6b90293fa850a08cb2ce30aa61658b207cd5a209/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/265a4c17f063c4ac9bc30c037105f361df2f418f/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7721fdd1d59c4b8ae136c087b7590ec69061d97f">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_9d379115328993d4de3a0c68bb4db6ff53b23539/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adriancaroll/.android/build-cache/fa9b4e84b0dd017c827c7f3652f3f8fb2e163f55/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d076b89df3fd2f3d18e597ffd399dba7aad85843">
+        <dex dex="/Users/adriancaroll/workspace/tmp/expo-instabug-sample/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_8243a725347352e79672c170dfd2c5cde1d6ed23/classes.dex" />
+    </item>
+
+</items>
