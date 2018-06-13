@@ -1,3 +1,9 @@
+## Reproduce Instructions
+
+Found out that on Android when you first open the app and shake the device it does not show instabug BUT if you move away from the app and then come back to it and shake the device it will show instabug.
+
+-----------------
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
